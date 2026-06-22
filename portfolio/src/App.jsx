@@ -220,7 +220,7 @@ export default function App() {
       <nav style={{ position: "sticky", top: 0, zIndex: 50, background: "rgba(250,250,247,.85)", backdropFilter: "blur(12px)", borderBottom: "1px solid #ECECE4" }}>
         <div style={{ maxWidth: 1080, margin: "0 auto", padding: "14px 28px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
           <a href="#top" className="display" style={{ fontWeight: 700, fontSize: 16, lineHeight: 1.1, letterSpacing: -0.4 }}>
-            SIA<span style={{ color: accent }}>.</span>Naqvi
+            SYED IHSAAN ABBAS NAQVI<span style={{ color: accent }}></span>
             <span style={{ display: "block", fontSize: 10.5, fontWeight: 500, color: MUTED, letterSpacing: 0, marginTop: 1 }}>Syed Ihsaan Abbas Naqvi</span>
           </a>
           <div className="nav-links" style={{ display: "flex", gap: 28 }}>
