@@ -221,7 +221,7 @@ export default function App() {
         <div style={{ maxWidth: 1080, margin: "0 auto", padding: "14px 28px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
           <a href="#top" className="display" style={{ fontWeight: 700, fontSize: 16, lineHeight: 1.1, letterSpacing: -0.4 }}>
             SYED IHSAAN ABBAS NAQVI<span style={{ color: accent }}></span>
-            <span style={{ display: "block", fontSize: 10.5, fontWeight: 500, color: MUTED, letterSpacing: 0, marginTop: 1 }}>Syed Ihsaan Abbas Naqvi</span>
+            <span style={{ display: "block", fontSize: 10.5, fontWeight: 500, color: MUTED, letterSpacing: 0, marginTop: 1 }}>Full Stack Developer</span>
           </a>
           <div className="nav-links" style={{ display: "flex", gap: 28 }}>
             <a className="navlink" href="#work">Work</a>
